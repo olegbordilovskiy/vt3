@@ -7,7 +7,7 @@ package org.example.exception;
 public class CommandException extends ProjectException {
 
     /**
-     * Constructs a new CommandException with the specified detail message.
+     * Constructs a new CommandException with the specified detail messagee.
      * @param message The detail message (which is saved for later retrieval by the getMessage() method).
      */
     public CommandException(String message) {
